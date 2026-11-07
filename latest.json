@@ -1,5 +1,6 @@
 {
-  "version": "0.1.0",
-  "url": "/downloads/Editnotch.dmg",
+  "version": "0.2.0",
+  "url": "https://github.com/xCONEx/editnotch-quantovale-landing/releases/download/v1/Editnotch.dmg",
+  "sha256": "de498b5c19378499411dc87aeb28f12b51a87fb9eb2f67855e922917d5139032",
   "notes": "Primeira versão pública."
 }
